@@ -74,3 +74,10 @@ input:focus,
 button:focus {
   outline: none;
 }
+
+.swrap-rate-container {
+  display: flex;
+  align-items: center;
+  justify-content: space-between; 
+  color: var(--main-color);
+}
